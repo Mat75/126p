@@ -1,0 +1,30 @@
+body{
+    background-image: url("https://img.freepik.com/vector-gratis/notas-musicales-colores-sobre-fondo-oscuro_1017-32302.jpg?size=626&ext=jpg&ga=GA1.1.1412446893.1705449600&semt=ais");
+    background-size: cover;
+}
+#boton{
+    background-color: yellow;
+    width: 150px;
+    height: 100px;
+    
+}
+#label{
+    color: orange;
+}
+#h1{
+    color: blue;
+}
+#onda{
+    height: 150px;
+    width: 150px ;
+}
+#onda2{
+    height: 150px;
+    width: 150px ;
+}
+#i2i{
+    float: right;
+}
+canvas{
+    background-color: black;
+}
